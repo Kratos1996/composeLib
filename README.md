@@ -11,9 +11,9 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation ("com.github.Kratos1996:corelib:version@aar")
+	        implementation("com.github.Kratos1996:composeLib:Tag")
 	}
-Share this release:   [![](https://jitpack.io/v/Kratos1996/corelib.svg)](https://jitpack.io/#Kratos1996/corelib)
+Share this release:   [![](https://jitpack.io/v/Kratos1996/composeLib.svg)](https://jitpack.io/#Kratos1996/composeLib)
 
 Link
 That's it! The first time you request a project JitPack checks out the code, builds it and serves the build artifacts (jar, aar).
