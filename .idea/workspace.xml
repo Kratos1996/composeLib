@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7099345-8dcb-4afe-843a-78685c6cc117" name="Changes" comment="1.1.7 upgraded" />
+    <list default="true" id="e7099345-8dcb-4afe-843a-78685c6cc117" name="Changes" comment="1.0.2 upgraded" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +122,31 @@
       <option name="project" value="LOCAL" />
       <updated>1744447105308</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1.0.2 upgraded">
+      <option name="closed" value="true" />
+      <created>1744447297980</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744447297980</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1.0.2 upgraded">
+      <option name="closed" value="true" />
+      <created>1744447313384</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744447313384</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1.0.2 upgraded">
+      <option name="closed" value="true" />
+      <created>1744447366387</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744447366387</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,8 +175,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.0.0  upgraded" />
     <MESSAGE value="1.0.1  upgraded" />
-    <MESSAGE value="1.0.2 upgraded" />
     <MESSAGE value="1.1.7 upgraded" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.1.7 upgraded" />
+    <MESSAGE value="1.0.2 upgraded" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0.2 upgraded" />
   </component>
 </project>
